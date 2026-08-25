@@ -1,7 +1,6 @@
 {
   "name": "timestamp-microservice",
   "version": "0.1.0",
-  "description": "freeCodeCamp Timestamp Microservice boilerplate solution",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
